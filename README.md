@@ -60,7 +60,7 @@ Caso contrario → 0
 
 * KNIME Analytics Platform
 
-* **Componentes principales:**
+**Componentes principales:**
 * Rule Engine
 * Partitioning
 * Tree Ensemble Learner
