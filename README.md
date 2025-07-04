@@ -60,6 +60,14 @@ Caso contrario → 0
 
 * KNIME Analytics Platform
 
-* **Componentes principales:** Rule Engine, Partitioning, Tree Ensemble Learner, Predictor, Scorer, Scatter Plot, Bar Chart, Normalizer.
+* **Componentes principales:**
+* Rule Engine
+* Partitioning
+* Tree Ensemble Learner
+* Predictor
+* Scorer
+* Scatter Plot
+* Bar Chart
+* Normalizer
 
 Este proyecto evidencia el uso práctico de KNIME para resolver problemas de clasificación médica, aplicando lógica clínica y flujos estructurados de aprendizaje automático sin escribir código.
